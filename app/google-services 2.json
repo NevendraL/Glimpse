@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5252771612",
+    "firebase_url": "https://glimpse-c9bfa.firebaseio.com",
+    "project_id": "glimpse-c9bfa",
+    "storage_bucket": "glimpse-c9bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5252771612:android:82a91b316dfa3b7a19d4d9",
+        "android_client_info": {
+          "package_name": "com.examp.glimpse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5252771612-t2phr2p0i0rssta7vuc26vhs9gvqhhjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqxjHL5dxEzECjirAXcZXCxHKqXNVP3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5252771612-t2phr2p0i0rssta7vuc26vhs9gvqhhjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
